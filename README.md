@@ -28,6 +28,6 @@ We do not share or disclose any personal information collected through the use o
 
 We may update our Privacy Policy from time to time. We advise you to review this page periodically for any changes. Users will be notified of any changes by posting the new Privacy Policy on this page. Changes are effective immediately after they are posted.
 
-If you have any questions or suggestions about our Privacy Policy, please contact us at Pluto HQ.
+If you have any questions or suggestions about our Privacy Policy, please contact us at our [Support server](https://discord.gg/hrKRZU3xJx).
 
 ---

@@ -20,7 +20,7 @@
 
 ---
 
-**Privacy Policy**
+# Privacy Policy
 
 The Mato Discord App does not collect or store personal information from users directly. We may collect and store user data required for the app's functioning, such as Discord user IDs, server IDs, channel IDs, and message content, solely for providing the Services.
 
